@@ -1,0 +1,10 @@
+#include "constants.h"
+
+int LED_PIN_ONE = 1;
+int LED_PIN_TWO = 2;
+int LED_PIN_FOUR = 3;
+int LED_PIN_EIGHT = 4;
+int LED_PIN_SIXTEEN = 5;
+int LED_PIN_THIRTY_TWO = 6;
+int LED_PIN_SIXTY_FOUR = 7;
+int LED_PIN_ONE_HUNDRED_TWENTY_EIGHT = 19;
